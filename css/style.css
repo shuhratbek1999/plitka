@@ -1350,6 +1350,7 @@
   .header {
     height: 450px;
     overflow-x: hidden;
+    padding: 0px 20px;
   }
   .header__content {
     height: calc(450px - 40px);
@@ -1860,6 +1861,7 @@
   .header {
     height: 450px;
     overflow-x: hidden;
+    padding: 0px 20px;
   }
   .header__content {
     height: calc(450px - 40px);
